@@ -1,0 +1,7 @@
+# ninja log v5
+0	1007	1659006070	CMakeFiles/appcpp.dir/appcpp.cpp.o	d61b32884ae4ed0
+1007	1344	1659006070	/home/syn1650/AndroidStudioProjects/Camera/appcpp/build/intermediates/cxx/Debug/4t6v2o1p/obj/arm64-v8a/libappcpp.so	30071936ff4c7ebe
+0	711	1659006387	CMakeFiles/appcpp.dir/appcpp.cpp.o	d61b32884ae4ed0
+711	973	1659006388	/home/syn1650/AndroidStudioProjects/Camera/appcpp/build/intermediates/cxx/Debug/4t6v2o1p/obj/arm64-v8a/libappcpp.so	30071936ff4c7ebe
+1	696	1659006424	CMakeFiles/appcpp.dir/appcpp.cpp.o	d61b32884ae4ed0
+696	951	1659006425	/home/syn1650/AndroidStudioProjects/Camera/appcpp/build/intermediates/cxx/Debug/4t6v2o1p/obj/arm64-v8a/libappcpp.so	30071936ff4c7ebe

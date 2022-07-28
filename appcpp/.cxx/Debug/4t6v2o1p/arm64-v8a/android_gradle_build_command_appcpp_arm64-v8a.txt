@@ -1,0 +1,7 @@
+Executable : /home/syn1650/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/syn1650/AndroidStudioProjects/Camera/appcpp/.cxx/Debug/4t6v2o1p/arm64-v8a
+appcpp
+jvmArgs : 
+

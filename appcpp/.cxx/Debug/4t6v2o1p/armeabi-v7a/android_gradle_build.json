@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/syn1650/AndroidStudioProjects/Camera/appcpp/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/syn1650/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/syn1650/AndroidStudioProjects/Camera/appcpp/.cxx/Debug/4t6v2o1p/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/syn1650/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/syn1650/AndroidStudioProjects/Camera/appcpp/.cxx/Debug/4t6v2o1p/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appcpp::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "appcpp",
+      "output": "/home/syn1650/AndroidStudioProjects/Camera/appcpp/build/intermediates/cxx/Debug/4t6v2o1p/obj/armeabi-v7a/libappcpp.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/syn1650/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/syn1650/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

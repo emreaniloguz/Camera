@@ -1,0 +1,10 @@
+.idea
+gradle
+OpenCV
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
+settings.gradle
+.gradle

@@ -1,0 +1,3 @@
+/home/syn1650/AndroidStudioProjects/Camera/appcpp/.cxx/Debug/4t6v2o1p/x86_64/CMakeFiles/edit_cache.dir
+/home/syn1650/AndroidStudioProjects/Camera/appcpp/.cxx/Debug/4t6v2o1p/x86_64/CMakeFiles/rebuild_cache.dir
+/home/syn1650/AndroidStudioProjects/Camera/appcpp/.cxx/Debug/4t6v2o1p/x86_64/CMakeFiles/appcpp.dir
